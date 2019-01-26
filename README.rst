@@ -37,6 +37,8 @@ Requirements
 To use the library, you need to install the run time requirements:
 
    sudo pip install -r requirements/base.txt
+   
+
 
 To modify and test the library, you need to install the developer requirements:
 
